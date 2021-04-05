@@ -1,4 +1,4 @@
-name: flutter_hrlweibo
+name: weibo_clone_pixpit
 description: A new Flutter application.
 
 # The following defines the version and build number for your application.
@@ -35,7 +35,7 @@ dependencies:
   video_player:
   # https://github:com/brianegan/chewie:
   chewie: ^0.9.5
-  #https://github.com/flutterchina/azlistview
+  # https://github.com/flutterchina/azlistview
   azlistview: ^0.1.2
   #https://github.com/flutterchina/lpinyin
   lpinyin: ^1.0.9

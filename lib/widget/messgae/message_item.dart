@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_hrlweibo/model/MessageNormal.dart';
-import 'package:flutter_hrlweibo/public.dart';
-import 'package:flutter_hrlweibo/widget/messgae/bubble.dart';
+import 'package:weibo_clone_pixpit/model/MessageNormal.dart';
+import 'package:weibo_clone_pixpit/public.dart';
+import 'package:weibo_clone_pixpit/widget/messgae/bubble.dart';
 import 'voice_animation.dart';
 
 class ChatMessageItem extends StatefulWidget {

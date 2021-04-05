@@ -1,6 +1,6 @@
 import 'package:extended_text_library/extended_text_library.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter_hrlweibo/widget/messgae/emoji_widget.dart';
+import 'package:weibo_clone_pixpit/widget/messgae/emoji_widget.dart';
 
 import 'at_text.dart';
 import 'topic_text.dart';

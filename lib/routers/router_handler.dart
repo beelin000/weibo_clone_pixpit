@@ -1,18 +1,18 @@
 import 'dart:convert' as convert;
 
 import 'package:flutter/material.dart';
-import 'package:flutter_hrlweibo/model/VideoModel.dart';
-import 'package:flutter_hrlweibo/model/WeiBoDetail.dart';
-import 'package:flutter_hrlweibo/pages/find/find_hot_search.dart';
-import 'package:flutter_hrlweibo/pages/find/topic_detail.dart';
-import 'package:flutter_hrlweibo/pages/home/weibo_comment_detail_page.dart';
-import 'package:flutter_hrlweibo/pages/home/weibo_publish_page.dart';
-import 'package:flutter_hrlweibo/pages/home/weibo_publish_speople_page.dart';
-import 'package:flutter_hrlweibo/pages/home/weibo_publish_stopic_page.dart';
-import 'package:flutter_hrlweibo/pages/message/msg_comment.dart';
-import 'package:flutter_hrlweibo/pages/message/msg_zan.dart';
-import 'package:flutter_hrlweibo/pages/mine/personinfo_page.dart';
-import 'package:flutter_hrlweibo/public.dart';
+import 'package:weibo_clone_pixpit/model/VideoModel.dart';
+import 'package:weibo_clone_pixpit/model/WeiBoDetail.dart';
+import 'package:weibo_clone_pixpit/pages/find/find_hot_search.dart';
+import 'package:weibo_clone_pixpit/pages/find/topic_detail.dart';
+import 'package:weibo_clone_pixpit/pages/home/weibo_comment_detail_page.dart';
+import 'package:weibo_clone_pixpit/pages/home/weibo_publish_page.dart';
+import 'package:weibo_clone_pixpit/pages/home/weibo_publish_speople_page.dart';
+import 'package:weibo_clone_pixpit/pages/home/weibo_publish_stopic_page.dart';
+import 'package:weibo_clone_pixpit/pages/message/msg_comment.dart';
+import 'package:weibo_clone_pixpit/pages/message/msg_zan.dart';
+import 'package:weibo_clone_pixpit/pages/mine/personinfo_page.dart';
+import 'package:weibo_clone_pixpit/public.dart';
 
 var indexPageHandler = new Handler(
     handlerFunc: (BuildContext context, Map<String, List<String>> params) {

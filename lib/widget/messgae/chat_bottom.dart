@@ -1,7 +1,7 @@
 import 'dart:ui' as ui;
 
 import 'package:flutter/material.dart';
-import 'package:flutter_hrlweibo/public.dart';
+import 'package:weibo_clone_pixpit/public.dart';
 import 'package:keyboard_visibility/keyboard_visibility.dart';
 import 'package:permission_handler/permission_handler.dart';
 

@@ -1,7 +1,7 @@
 import 'dart:async';
 
 import 'package:flutter/services.dart';
-import 'package:flutter_hrlweibo/widget/messgae/response.dart';
+import 'package:weibo_clone_pixpit/widget/messgae/response.dart';
 
 class FlutterPluginRecord {
   final MethodChannel _channel = const MethodChannel('flutter_plugin_record');

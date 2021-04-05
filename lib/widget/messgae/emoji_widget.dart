@@ -2,7 +2,7 @@
 import 'package:flutter/material.dart';
 
 import 'emoji_util.dart';
-import 'package:flutter_hrlweibo/public.dart';
+import 'package:weibo_clone_pixpit/public.dart';
 import 'circle_page_indicator.dart';
 
 typedef void OnEmojiClick(int text);

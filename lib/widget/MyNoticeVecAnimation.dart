@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_hrlweibo/constant/constant.dart';
+import 'package:weibo_clone_pixpit/constant/constant.dart';
 
 //https://blog.csdn.net/qq_39099317/article/details/87858294
 //公告栏动画 垂直淡入淡出

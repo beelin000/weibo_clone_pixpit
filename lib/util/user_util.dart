@@ -1,4 +1,4 @@
-import 'package:flutter_hrlweibo/public.dart';
+import 'package:weibo_clone_pixpit/public.dart';
 
 class UserUtil {
   static const String SP_USER_ID = "sp_user_id";

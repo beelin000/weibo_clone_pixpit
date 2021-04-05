@@ -1,0 +1,18 @@
+# This is a generated file; do not edit or check into version control.
+audioplayers=/Users/lc/Developer/flutter/.pub-cache/hosted/pub.flutter-io.cn/audioplayers-0.14.2/
+flutter_plugin_android_lifecycle=/Users/lc/Developer/flutter/.pub-cache/hosted/pub.flutter-io.cn/flutter_plugin_android_lifecycle-1.0.6/
+flutter_record_plugin=/Users/lc/Developer/flutter/.pub-cache/git/flutter_record_plugin-ca5a0f3821616d38842dde4a6588a1ce9ad5673d/
+fluttertoast=/Users/lc/Developer/flutter/.pub-cache/hosted/pub.flutter-io.cn/fluttertoast-3.1.3/
+image_picker=/Users/lc/Developer/flutter/.pub-cache/hosted/pub.flutter-io.cn/image_picker-0.6.5/
+keyboard_visibility=/Users/lc/Developer/flutter/.pub-cache/hosted/pub.flutter-io.cn/keyboard_visibility-0.5.6/
+path_provider=/Users/lc/Developer/flutter/.pub-cache/hosted/pub.flutter-io.cn/path_provider-1.6.5/
+path_provider_macos=/Users/lc/Developer/flutter/.pub-cache/hosted/pub.flutter-io.cn/path_provider_macos-0.0.4/
+permission_handler=/Users/lc/Developer/flutter/.pub-cache/hosted/pub.flutter-io.cn/permission_handler-3.3.0/
+shared_preferences=/Users/lc/Developer/flutter/.pub-cache/hosted/pub.flutter-io.cn/shared_preferences-0.5.6+3/
+shared_preferences_macos=/Users/lc/Developer/flutter/.pub-cache/hosted/pub.flutter-io.cn/shared_preferences_macos-0.0.1+6/
+shared_preferences_web=/Users/lc/Developer/flutter/.pub-cache/hosted/pub.flutter-io.cn/shared_preferences_web-0.1.2+4/
+url_launcher=/Users/lc/Developer/flutter/.pub-cache/hosted/pub.flutter-io.cn/url_launcher-5.3.0/
+url_launcher_web=/Users/lc/Developer/flutter/.pub-cache/hosted/pub.flutter-io.cn/url_launcher_web-0.1.1+1/
+video_player=/Users/lc/Developer/flutter/.pub-cache/hosted/pub.flutter-io.cn/video_player-0.10.8+1/
+video_player_web=/Users/lc/Developer/flutter/.pub-cache/hosted/pub.flutter-io.cn/video_player_web-0.1.2+1/
+wakelock=/Users/lc/Developer/flutter/.pub-cache/hosted/pub.flutter-io.cn/wakelock-0.1.4+1/

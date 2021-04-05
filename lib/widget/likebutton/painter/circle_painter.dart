@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_hrlweibo/widget/likebutton/utils/like_button_model.dart';
-import 'package:flutter_hrlweibo/widget/likebutton/utils/like_button_util.dart';
+import 'package:weibo_clone_pixpit/widget/likebutton/utils/like_button_model.dart';
+import 'package:weibo_clone_pixpit/widget/likebutton/utils/like_button_util.dart';
 
 ///
 ///  create by zmtzawqlp on 2019/5/27

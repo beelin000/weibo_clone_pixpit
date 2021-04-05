@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'dart:math' as math;
 
-import 'package:flutter_hrlweibo/widget/likebutton/utils/like_button_util.dart';
+import 'package:weibo_clone_pixpit/widget/likebutton/utils/like_button_util.dart';
 
 ///
 ///  create by zmtzawqlp on 2019/5/27

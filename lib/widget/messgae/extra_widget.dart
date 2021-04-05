@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_hrlweibo/public.dart';
+import 'package:weibo_clone_pixpit/public.dart';
 import 'extra_item.dart';
 
 

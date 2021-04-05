@@ -1,16 +1,16 @@
 import 'package:flutter/gestures.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter_hrlweibo/constant/constant.dart';
-import 'package:flutter_hrlweibo/http/service_method.dart';
-import 'package:flutter_hrlweibo/model/WeiBoModel.dart';
-import 'package:flutter_hrlweibo/util/date_util.dart';
-import 'package:flutter_hrlweibo/widget/video/video_widget.dart';
-import 'package:flutter_hrlweibo/widget/weibo/match_text.dart';
-import 'package:flutter_hrlweibo/widget/weibo/parsed_text.dart';
+import 'package:weibo_clone_pixpit/constant/constant.dart';
+import 'package:weibo_clone_pixpit/http/service_method.dart';
+import 'package:weibo_clone_pixpit/model/WeiBoModel.dart';
+import 'package:weibo_clone_pixpit/util/date_util.dart';
+import 'package:weibo_clone_pixpit/widget/video/video_widget.dart';
+import 'package:weibo_clone_pixpit/widget/weibo/match_text.dart';
+import 'package:weibo_clone_pixpit/widget/weibo/parsed_text.dart';
 import '../../pages/home/weibo_retweet_page.dart';
-import 'package:flutter_hrlweibo/widget/likebutton/like_button.dart';
-import 'package:flutter_hrlweibo/widget/likebutton/utils/like_button_model.dart';
-import 'package:flutter_hrlweibo/public.dart';
+import 'package:weibo_clone_pixpit/widget/likebutton/like_button.dart';
+import 'package:weibo_clone_pixpit/widget/likebutton/utils/like_button_model.dart';
+import 'package:weibo_clone_pixpit/public.dart';
 import "package:dio/dio.dart";
 
 class WeiBoItemWidget extends StatelessWidget {

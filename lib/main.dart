@@ -2,8 +2,8 @@ import 'dart:io';
 
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
-import 'package:flutter_hrlweibo/pages/splash_page.dart';
-import 'package:flutter_hrlweibo/public.dart';
+import 'package:weibo_clone_pixpit/pages/splash_page.dart';
+import 'package:weibo_clone_pixpit/public.dart';
 
 void main() {
   runApp(new MyApp());

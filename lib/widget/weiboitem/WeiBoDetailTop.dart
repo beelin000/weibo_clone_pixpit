@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_hrlweibo/model/WeiBoModel.dart';
-import 'package:flutter_hrlweibo/constant/constant.dart';
- import 'WeiBoItem.dart';
+import 'package:weibo_clone_pixpit/model/WeiBoModel.dart';
+import 'package:weibo_clone_pixpit/constant/constant.dart';
+import 'WeiBoItem.dart';
 
 class WeiBoDetailTopWidget extends StatefulWidget {
   final WeiBoModel mModel;
